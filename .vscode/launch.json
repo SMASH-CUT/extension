@@ -1,0 +1,15 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Chrome against localhost",
+      "url": "https://www.netflix.com/watch/81002747?trackId=14170286&tctx=2%2C2%2C4773c3dd-2888-4d6d-b71f-ee9d2f4565ad-682814659%2C52c0176b-971c-4988-b969-0e935fd8fcbd_14387570X3XX1588038166166%2C52c0176b-971c-4988-b969-0e935fd8fcbd_ROOT",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
